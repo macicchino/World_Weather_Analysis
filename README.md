@@ -10,7 +10,7 @@
 
 ![dev_2](Images/Dev2_Clean_Hotels.png "Dev 2 Image")
 
-![dev_2](WeatherPy_travel_map.png "Dev 2 Map")
+![dev_2](/WeatherPy_travel_map.png "Dev 2 Map")
 
 ### 3. Create a Travel Itinerary Map
 

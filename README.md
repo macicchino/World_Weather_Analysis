@@ -10,7 +10,8 @@ Deliverable 1 Dataframe.
 
 ### 2. Create Customer Travel Destinations Map
 
-Deliverable 2 Dataframe.
+Deliverable 2 Dataframe. 
+- ( Note the png download blocked out the maps but display in the Jupyter notebook )
 
 ![dev_2](Images/Dev2_Clean_Hotels.png "Dev 2 Image")
 

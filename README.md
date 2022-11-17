@@ -10,13 +10,13 @@
 
 ![dev_2](Images/Dev2_Clean_Hotels.png "Dev 2 Image")
 
-![dev_2](Vacation_Search/WeatherPy_travel_map.png "Dev 2 Map")
+![dev_2](Images/WeatherPy_travel_map.png "Dev 2 Map")
 
 ### 3. Create a Travel Itinerary Map
 
-![dev_3](Vacation_itinerary/WeatherPy_travel_map.png "Dev 3, Map 1")
+![dev_3](Images/WeatherPy_travel_map.png "Dev 3, Map 1")
 
-![dev_3](Vacation_itinerary/WeatherPy_travel_map_markers.png "Dev 3, Map 2")
+![dev_3](Images/WeatherPy_travel_map_markers.png "Dev 3, Map 2")
 
 ## Summary & Thoughts
 

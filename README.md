@@ -1,4 +1,4 @@
-# World_Weather_Anlysis: Module 6 - Vacation Maps
+# World_Weather_Analysis: Module 6 - Vacation Maps
 
 ## Overview of Deliverables 
 

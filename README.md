@@ -4,19 +4,20 @@
 
 ### 1. Retrieve Weather Data 
 
+![dev_1](Images/Dev1_DataFrame.png "Dev 1 Image")
 
 ### 2. Create Customer Travel Destinations Map
 
+![dev_2](Images/Dev2_Clean_Hotels.png "Dev 2 Image")
+
+![dev_2](WeatherPy_travel_map.png "Dev 2 Map")
 
 ### 3. Create a Travel Itinerary Map
 
+![dev_3](WeatherPy_travel_map.png "Dev 3, Map 1")
 
+![dev_3](WeatherPy_travel_map_markers.png "Dev 3, Map 2")
 
 ## Summary & Thoughts
-
-
-![pyber_summary](Analysis/Pyber_data_Frame.png "PyBer_Data_Frame")
-
-As the data shows, the Urban city type has the highest 'Total Rides' , 'Total Drivers' and 'Total Fares'. However, the Rural city type has higher 'Average Fare per Ride' and 'Average Fare per Driver'. This makes sense, as there are less people in rural areas. In addition, the distance of trips in Rural areas should generally be longer. So we would expect a higher average fare for rides and drivers in Rural trips. 
 
 

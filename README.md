@@ -28,5 +28,14 @@ Deliverable 2, Travel Marker Map.
 ![dev_3.2](Images/WeatherPy_travel_map_markers.png "Dev 3, Map 2")
 
 
+## Summary and Thoughts
+
+Being trained as an economist, I found the use of API's to be extremly exciting. The ability to use and access to this data, is valuble for almost all types of research. I plan to be utilizing my newly found API skills for future projects and career ambitions. 
+
+I also noticed reviewing the Google API documentation that they have agricultural data. I plan to use this in my final project and was a great resource to discover. 
+
+
+
+
 
 

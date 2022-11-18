@@ -16,7 +16,6 @@ Deliverable 2 Dataframe.
 
 Deliverable 2 Map.
 
-![dev_2](Images/WeatherPy_vacation_map.png "Dev 2 Map with Markers")
 
 ### 3. Create a Travel Itinerary Map
 

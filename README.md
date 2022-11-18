@@ -15,7 +15,7 @@ Deliverable 2 Dataframe.
 ![dev_2](Images/Dev2_Clean_Hotels.png "Dev 2 Image")
 
 Deliverable 2 Map.
-
+![dev_2](Images/WeatherPY_vacation_map.png "Dev 2 Image")
 
 ### 3. Create a Travel Itinerary Map
 

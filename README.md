@@ -15,10 +15,8 @@ Deliverable 2 Dataframe.
 ![dev_2](Images/Dev2_Clean_Hotels.png "Dev 2 Image")
 
 Deliverable 2 Map.
-- ( Note the png download blocked out the maps but display in the Jupyter notebook )
 
-
-![dev_2](Images/WeatherPy_vacation_map.png "Dev 2 Map")
+![dev_2](Images/WeatherPy_vacation_map.png "Dev 2 Map with Markers")
 
 ### 3. Create a Travel Itinerary Map
 
